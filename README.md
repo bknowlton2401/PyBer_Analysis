@@ -15,9 +15,10 @@ To begin our analysis, we first found the total rides, total drivers and total f
 
 The data also shows us that there is opportunity to grow the number of drivers in rural and suburban cities.  The total amount of rides given compared to the total number of drivers is higher. From a drivers perspective, this means they have ample opportunities to pick up more fares and to earn more money.  For riders in a rural or suburban city, they will pay $5 to $10 more per ride than someone in an urban city.  With more drivers available and most likely shorter distances to drive, the fares are lower in an urban city.  
 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/96890065/160301981-b3e93912-25b4-47f7-99f1-d0ba11f3a0ad.png)
+
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 Based on these results, I would recommended the following:
 * Increase advertising for driving opportunities in rural and suburban areas.
